@@ -114,7 +114,7 @@ class User implements HasInfo {
 
 $user = new User();
 $address = new Addres("Unknown Street", "239", "Shtip");
-$phone = new Phone("389", "70602138");
+$phone = new Phone("389", "111222");
 
 $user->name = "John";
 $user->surname = "Doe";
